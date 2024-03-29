@@ -30,6 +30,7 @@ let nav_tmp=[
 export default defineConfig({
   title: "星梦启航",
   description: "Python斗罗的代码笔记",
+  base:'/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: nav_tmp,
